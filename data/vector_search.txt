@@ -1,0 +1,11 @@
+Vector Search Systems
+
+Vector search enables similarity search using high-dimensional embeddings.
+
+Embeddings convert text into numerical vectors that capture semantic meaning.
+
+FAISS is a library developed by Facebook AI Research for efficient similarity search.
+
+Cosine similarity measures the angle between vectors and is commonly used in semantic search.
+
+Hybrid search combines keyword-based retrieval with vector similarity search.

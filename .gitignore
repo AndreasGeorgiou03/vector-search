@@ -5,5 +5,8 @@
 __pycache__/
 *.pyc
 
+# Generated Storage
+*.faiss
+meta.json
 # VS Code
 .vscode/

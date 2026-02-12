@@ -1,0 +1,11 @@
+Database Systems
+
+A database management system (DBMS) is software that allows users to store and retrieve structured data efficiently.
+
+Relational databases store data in tables with rows and columns. SQL is the primary query language used to interact with relational databases.
+
+NoSQL databases include document stores, key-value stores, and graph databases. They are often used for scalable web applications.
+
+Indexing improves query performance by allowing faster lookup of records.
+
+ACID properties ensure reliable transactions in relational databases.

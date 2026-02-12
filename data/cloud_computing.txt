@@ -1,0 +1,11 @@
+Cloud Computing
+
+Cloud computing provides on-demand computing resources over the internet.
+
+Infrastructure as a Service (IaaS) provides virtual machines and storage.
+
+Platform as a Service (PaaS) provides development platforms without managing infrastructure.
+
+Amazon Web Services, Google Cloud Platform, and Microsoft Azure are major cloud providers.
+
+Scalability and elasticity are key benefits of cloud systems.

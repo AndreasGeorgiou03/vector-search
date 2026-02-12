@@ -1,0 +1,11 @@
+Linux Operating System
+
+Linux is an open-source operating system kernel created by Linus Torvalds.
+
+The Linux kernel manages hardware resources such as CPU, memory, and storage.
+
+Common Linux distributions include Ubuntu, Debian, Fedora, and Arch Linux.
+
+The command line interface (CLI) allows users to interact with the system using shell commands.
+
+Package managers like apt and yum help install and manage software packages.
