@@ -1,0 +1,9 @@
+Cloud Security Practices
+
+Cloud security involves protecting data, applications, and infrastructure in cloud environments.
+
+Encryption, identity management, and network segmentation are essential security mechanisms.
+
+Cloud providers offer shared responsibility models where both the provider and customer manage security aspects.
+
+Compliance standards such as ISO 27001 and SOC 2 are important in enterprise cloud deployments.

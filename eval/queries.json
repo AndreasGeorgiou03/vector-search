@@ -1,0 +1,16 @@
+[
+  { "query": "what is IaaS and PaaS", "relevant_sources": ["cloud_computing.txt"] },
+  { "query": "major cloud providers like AWS Azure GCP", "relevant_sources": ["cloud_computing.txt"] },
+
+  { "query": "cosine similarity in vector search", "relevant_sources": ["vector_search.txt"] },
+  { "query": "what is FAISS used for", "relevant_sources": ["vector_search.txt"] },
+
+  { "query": "difference between SQL and NoSQL", "relevant_sources": ["database.txt"] },
+  { "query": "what are ACID properties", "relevant_sources": ["database.txt"] },
+
+  { "query": "what does the Linux kernel manage", "relevant_sources": ["linux.txt"] },
+  { "query": "what is apt on Ubuntu", "relevant_sources": ["linux.txt"] },
+
+  { "query": "supervised vs unsupervised learning", "relevant_sources": ["ml.txt"] },
+  { "query": "how to prevent overfitting dropout regularization", "relevant_sources": ["ml.txt"] }
+]

@@ -1,0 +1,9 @@
+SQL Performance Optimization
+
+SQL performance tuning focuses on improving query execution speed.
+
+Indexes are used to accelerate SELECT queries in relational databases.
+
+Query planners analyze SQL statements to determine optimal execution paths.
+
+Normalization and denormalization strategies impact database performance.

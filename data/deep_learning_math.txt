@@ -1,0 +1,9 @@
+Mathematics of Deep Learning
+
+Deep learning relies on linear algebra, calculus, and probability theory.
+
+Neural networks use gradient descent to optimize loss functions.
+
+Backpropagation computes partial derivatives of the loss function with respect to model parameters.
+
+Regularization techniques such as L2 penalty help prevent overfitting in neural networks.

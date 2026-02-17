@@ -1,0 +1,9 @@
+Linux File Systems
+
+Linux supports several file systems including ext4, XFS, and Btrfs.
+
+The file system manages how data is stored and retrieved from disk.
+
+Mount points allow file systems to be attached to the Linux directory tree.
+
+File permissions and ownership determine who can read, write, or execute files.

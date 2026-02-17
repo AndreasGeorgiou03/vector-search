@@ -1,0 +1,9 @@
+Mathematical Similarity and Distance
+
+Cosine similarity is a measure used in geometry to calculate the angle between two vectors in Euclidean space.
+
+In mathematics, vectors represent magnitude and direction. Cosine similarity is commonly used in linear algebra and physics.
+
+Distance metrics such as Euclidean distance, Manhattan distance, and cosine distance are used to compare numerical vectors.
+
+Unlike semantic embeddings, mathematical similarity does not involve natural language understanding.
